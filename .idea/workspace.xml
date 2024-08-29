@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2520ef3a-eef3-404b-a332-eac2afc59829" name="Changes" comment="moduuli2">
+    <list default="true" id="2520ef3a-eef3-404b-a332-eac2afc59829" name="Changes" comment="clean">
+      <change afterPath="$PROJECT_DIR$/moduuli3tehtävä1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli3tehtävä2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli3tehtävä3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli3tehtävä4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli4tehtävä1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli4tehtävä2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli4tehtävä3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli4tehtävä4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli4tehtävä5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/moduuli4tehtävä6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduuli2tehtävä5.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli2tehtävä5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli2tehtävä6.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli2tehtävä6.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +56,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.moduli3tehtävä2.executor": "Run",
     "Python.moduuli2.executor": "Run",
     "Python.moduuli2tehtävä1.executor": "Run",
     "Python.moduuli2tehtävä2.executor": "Run",
@@ -53,6 +64,16 @@
     "Python.moduuli2tehtävä4.executor": "Run",
     "Python.moduuli2tehtävä5.executor": "Run",
     "Python.moduuli2tehtävä6.executor": "Run",
+    "Python.moduuli3tehtävä1.executor": "Run",
+    "Python.moduuli3tehtävä3.executor": "Run",
+    "Python.moduuli3tehtävä4.executor": "Run",
+    "Python.moduuli4tehtävä1.executor": "Run",
+    "Python.moduuli4tehtävä2.executor": "Run",
+    "Python.moduuli4tehtävä3.executor": "Run",
+    "Python.moduuli4tehtävä4.executor": "Run",
+    "Python.moduuli4tehtävä5.executor": "Run",
+    "Python.moduuli4tehtävä6.executor": "Run",
+    "Python.mooduli3tehtävä2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -65,6 +86,29 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="moduuli2tehtävä1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ohjelmointi" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ohtoa\PycharmProjects\ohjelmointi\moduuli2tehtävä1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="moduuli2tehtävä1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="ohjelmointi" />
       <option name="ENV_FILES" value="" />
@@ -108,7 +152,8 @@
       <workItem from="1724653002564" duration="8659000" />
       <workItem from="1724912942302" duration="1351000" />
       <workItem from="1724914335064" duration="1222000" />
-      <workItem from="1724915584466" duration="358000" />
+      <workItem from="1724915584466" duration="3733000" />
+      <workItem from="1724924343458" duration="12459000" />
     </task>
     <task id="LOCAL-00001" summary="moduuli2">
       <option name="closed" value="true" />
@@ -118,7 +163,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724661480536</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="clean">
+      <option name="closed" value="true" />
+      <created>1724915958783</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1724915958783</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,7 +179,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="moduuli2" />
-    <option name="LAST_COMMIT_MESSAGE" value="moduuli2" />
+    <MESSAGE value="clean" />
+    <option name="LAST_COMMIT_MESSAGE" value="clean" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -141,11 +195,22 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2.coverage" NAME="moduuli2tehtävä1 Coverage Results" MODIFIED="1724653636765" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä1.coverage" NAME="moduuli2tehtävä1 Coverage Results" MODIFIED="1724913318388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä1.coverage" NAME="moduuli2tehtävä1 Coverage Results" MODIFIED="1724924587672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä4.coverage" NAME="moduuli2tehtävä4 Coverage Results" MODIFIED="1724654493861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä6.coverage" NAME="moduuli2tehtävä6 Coverage Results" MODIFIED="1724661691232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä4.coverage" NAME="moduuli4tehtävä4 Coverage Results" MODIFIED="1724931912479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä3.coverage" NAME="moduuli4tehtävä3 Coverage Results" MODIFIED="1724937293235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$mooduli3tehtävä2.coverage" NAME="mooduli3tehtävä2 Coverage Results" MODIFIED="1724925103414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä5.coverage" NAME="moduuli4tehtävä5 Coverage Results" MODIFIED="1724932545275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli3tehtävä1.coverage" NAME="moduuli3tehtävä1 Coverage Results" MODIFIED="1724924794834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduli3tehtävä2.coverage" NAME="moduli3tehtävä2 Coverage Results" MODIFIED="1724925545826" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä6.coverage" NAME="moduuli2tehtävä6 Coverage Results" MODIFIED="1724918087129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli3tehtävä4.coverage" NAME="moduuli3tehtävä4 Coverage Results" MODIFIED="1724930880600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä2.coverage" NAME="moduuli4tehtävä2 Coverage Results" MODIFIED="1724934804783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä3.coverage" NAME="moduuli2tehtävä3 Coverage Results" MODIFIED="1724654123817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä6.coverage" NAME="moduuli4tehtävä6 Coverage Results" MODIFIED="1724935490342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä2.coverage" NAME="moduuli2tehtävä2 Coverage Results" MODIFIED="1724913625915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä5.coverage" NAME="moduuli2tehtävä5 Coverage Results" MODIFIED="1724659896270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä5.coverage" NAME="moduuli2tehtävä5 Coverage Results" MODIFIED="1724916759584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli3tehtävä3.coverage" NAME="moduuli3tehtävä3 Coverage Results" MODIFIED="1724926778754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä1.coverage" NAME="moduuli4tehtävä1 Coverage Results" MODIFIED="1724933070768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
