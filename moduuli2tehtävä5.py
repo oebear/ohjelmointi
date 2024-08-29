@@ -8,7 +8,6 @@ naulat += (leiviska*20)
 luodit += (naulat*32)
 gramma = luodit*13.3
 gramma2 = str(gramma)
-print(gramma2)
 if gramma >= 1000:
     kg = gramma*10**(-3)
     kg2 = str(math.trunc(kg))
