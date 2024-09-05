@@ -1,9 +1,7 @@
 h = []
-h2 = int(input("Anna luku:"))
-h.append(int(h2))
-l = "le"
+l = int(input("Anna luku:"))
+h.append(int(l))
 while l != "":
-    l = ""
     l = input("Anna luku:")
     if l != "":
         h.append(int(l))
