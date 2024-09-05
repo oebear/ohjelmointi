@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2520ef3a-eef3-404b-a332-eac2afc59829" name="Changes" comment="clean">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduuli5tehtävä1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli5tehtävä1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduuli5tehtävä2.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli5tehtävä2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/moduuli5tehtävä3.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli5tehtävä3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/moduuli4tehtävä1.py" beforeDir="false" afterPath="$PROJECT_DIR$/moduuli4tehtävä1.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +65,7 @@
     "Python.moduuli5tehtävä1.executor": "Run",
     "Python.moduuli5tehtävä2.executor": "Run",
     "Python.moduuli5tehtävä3.executor": "Run",
+    "Python.moduuli5tehtävä4.executor": "Run",
     "Python.mooduli3tehtävä2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
@@ -152,7 +150,7 @@
       <workItem from="1724998987445" duration="1885000" />
       <workItem from="1725009187144" duration="5288000" />
       <workItem from="1725449001081" duration="349000" />
-      <workItem from="1725515912575" duration="2457000" />
+      <workItem from="1725515912575" duration="2818000" />
     </task>
     <task id="LOCAL-00001" summary="moduuli2">
       <option name="closed" value="true" />
@@ -186,7 +184,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725515998321</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="clean">
+      <option name="closed" value="true" />
+      <created>1725518663898</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1725518663898</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,6 +231,7 @@
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä2.coverage" NAME="moduuli4tehtävä2 Coverage Results" MODIFIED="1724934804783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä3.coverage" NAME="moduuli2tehtävä3 Coverage Results" MODIFIED="1724654123817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä6.coverage" NAME="moduuli4tehtävä6 Coverage Results" MODIFIED="1724935490342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ohjelmointi$moduuli5tehtävä4.coverage" NAME="moduuli5tehtävä4 Coverage Results" MODIFIED="1725518630055" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä2.coverage" NAME="moduuli2tehtävä2 Coverage Results" MODIFIED="1724913625915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli2tehtävä5.coverage" NAME="moduuli2tehtävä5 Coverage Results" MODIFIED="1724916759584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/ohjelmointi$moduuli4tehtävä1.coverage" NAME="moduuli4tehtävä1 Coverage Results" MODIFIED="1724933070768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
