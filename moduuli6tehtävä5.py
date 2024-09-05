@@ -10,4 +10,5 @@ for e in range(1,p+1):
     p = random.randint(1,999)
     k.append(p)
 print(k)
-print(pari(k))
+k2 = pari(k)
+print(k2)
