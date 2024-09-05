@@ -1,7 +1,5 @@
 ka = "python"
 sa = "rules"
-ka2 = ""
-sa2= ""
 nu = 1
 x = 1
 while nu <= 5:
@@ -12,6 +10,5 @@ while nu <= 5:
         print("Tervetuloa")
         x = 2
         break
-
 if x == 1:
     print("Pääsy evätty")
